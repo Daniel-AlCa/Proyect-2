@@ -1,4 +1,5 @@
-# Proyect-2
+# Wine Quality Prediction
+
 In this proyect we will see a supervised classificacion problem regarding different wine qualities.
 
 It shows data cleaning and multiple classification models from wich the one with the best accuracy is selected.
